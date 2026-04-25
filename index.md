@@ -6,5 +6,7 @@ Mucho gusto mi nombre es Tomás Saldías y soy estudiante del Major de Ingenier�
 - Tesorero del CEIBM
 - Esports UC Rocket League
 
+En el mundo de la biomedicina me interesa mucho el estudio del deporte y el monitoreo fisiologico, para exprimir nuestras capacidades al maximo como deportistas!
+
 Este panel es mi favorito de la mejor serie.
 <img width="686" height="386" alt="image" src="https://github.com/user-attachments/assets/e409ac35-bab0-4067-b23d-de9dbee23066" />
